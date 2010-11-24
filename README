@@ -1,0 +1,4 @@
+rubIDE is, as it's name says a Ruby IDE!
+
+What makes difference with the rest, is that it's actually written in Ruby (wxRuby in fact),
+so no more Java-based IDEs (puke)...
