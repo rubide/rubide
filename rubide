@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+# Execute the app initializer
+require File.join(File.dirname(__FILE__), 'config', 'boot')
+
